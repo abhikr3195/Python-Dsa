@@ -7,7 +7,7 @@ print(tup.index(-100))
 
 #membership operator (in , not in)
 print("anorudh" in tup)
-print("anorudh" not in tup)
+print("anorudh" not in tup)lmknfe
 
 
 
